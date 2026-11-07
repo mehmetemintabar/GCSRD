@@ -46,10 +46,10 @@ results/
 └── Station_<Name>/
     ├── methods_summary.xlsx                 # Detailed metrics
     ├── 01_time_series_overview.pdf          # Raw mean-centered series vs. Huber detrended residuals
-    ├── 02_contamination_sweep.pdf           # GCSRD ($D$) optimization curves across c in [0.01, 0.35]
-    ├── 03_distance_comparison.pdf           # Horizontal bar ranking of methods by GCSRD ($D$)
+    ├── 02_contamination_sweep.pdf           # GCSRD (D) optimization curves across c in [0.01, 0.35]
+    ├── 03_distance_comparison.pdf           # Horizontal bar ranking of methods by GCSRD (D)
     ├── 04_decomposition_stacked.pdf         # Stacked bar breakdown of D² into M1², M2², and M3² (%)
-    ├── 05_methods_landscape.pdf             # Trade-off scatter: % Data Removed vs. GCSRD ($D$)
+    ├── 05_methods_landscape.pdf             # Trade-off scatter: % Data Removed vs. GCSRD (D)
     ├── methods_diagnostics/
     │   └── <Method>_diagnostic.pdf          # Direct/Collateral outliers, 3D/2D scatters & histograms
     └── methods_cleaned_timeseries/
