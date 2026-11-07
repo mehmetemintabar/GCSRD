@@ -1,4 +1,4 @@
-# GCSRD ($D$): Optimal Outlier Rate Selection for GNSS Time Series
+# GCSRD ($D_{\text{GCSR}}$): Optimal Contamination Parameter Optimization for GNSS Time Series Outlier Detection
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
